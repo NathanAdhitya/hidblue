@@ -51,4 +51,4 @@ Connection may be finnicky, I personally have to re-pair the devices every time 
 
 ## Credits
 
-Source code ~~stolen from~~ inspired by [hidclient](https://github.com/4ndrej/hidclient) and [EmuBTHID](https://github.com/Alkaid-Benetnash/EmuBTHID). Adapted with the help of multiple LLM models.
+Source code ~~stolen from~~ inspired by [hidclient](https://github.com/4ndrej/hidclient) and [EmuBTHID](https://github.com/Alkaid-Benetnash/EmuBTHID). Adapted with the help of multiple LLMs.
